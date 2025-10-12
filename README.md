@@ -1,6 +1,6 @@
 # Trabalho 1 - Inteligência Artificial
 
-Links colab:
+## Links colab:
 ### Communities and Crime: https://colab.research.google.com/drive/1XUzJKLvT0yqW5hURo6TEZLDIi1Aq5CiT?usp=sharing
 ### Htru2: https://colab.research.google.com/drive/17IEzA-EbKofl6WpUeHaq5xQsemGQzRSo?usp=sharing
 ### Nursery: https://colab.research.google.com/drive/1v9_ecym57rtul_9RjNhwywZNzToswpoU?usp=sharing
